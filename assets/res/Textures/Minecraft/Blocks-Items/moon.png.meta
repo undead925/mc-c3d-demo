@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "ade6353f-0e17-4ed6-8946-b0016bab48fb",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "ade6353f-0e17-4ed6-8946-b0016bab48fb@6c48a",
+      "displayName": "moon",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ade6353f-0e17-4ed6-8946-b0016bab48fb"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "ade6353f-0e17-4ed6-8946-b0016bab48fb@6c48a"
+  }
+}

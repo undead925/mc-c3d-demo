@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "66c186ca-7cf3-4c00-8a4a-a3906043b771",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "66c186ca-7cf3-4c00-8a4a-a3906043b771@6c48a",
+      "displayName": "PanoramaAether",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "66c186ca-7cf3-4c00-8a4a-a3906043b771"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "66c186ca-7cf3-4c00-8a4a-a3906043b771@6c48a"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "17a513e1-a320-4ea1-8c50-2b0e4d790bea",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "17a513e1-a320-4ea1-8c50-2b0e4d790bea@6c48a",
+      "displayName": "Polyverse-Skies---Night-Sky_03",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "17a513e1-a320-4ea1-8c50-2b0e4d790bea"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "17a513e1-a320-4ea1-8c50-2b0e4d790bea@6c48a"
+  }
+}

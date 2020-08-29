@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "a91188e6-0e03-40b8-8c10-6315ef93852a",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "a91188e6-0e03-40b8-8c10-6315ef93852a@6c48a",
+      "displayName": "dustAnim2",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "nearest",
+        "magfilter": "nearest",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a91188e6-0e03-40b8-8c10-6315ef93852a"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "a91188e6-0e03-40b8-8c10-6315ef93852a@6c48a"
+  }
+}

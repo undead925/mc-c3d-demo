@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "1671572a-a3ae-4899-8318-9bdac2c65168",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "1671572a-a3ae-4899-8318-9bdac2c65168@6c48a",
+      "displayName": "Fire 29",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1671572a-a3ae-4899-8318-9bdac2c65168"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "1671572a-a3ae-4899-8318-9bdac2c65168@6c48a"
+  }
+}

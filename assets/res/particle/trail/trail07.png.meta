@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "4a6e16b2-ba79-437c-b253-fb50c2ead397",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "4a6e16b2-ba79-437c-b253-fb50c2ead397@6c48a",
+      "displayName": "trail07",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "4a6e16b2-ba79-437c-b253-fb50c2ead397"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "4a6e16b2-ba79-437c-b253-fb50c2ead397@6c48a"
+  }
+}

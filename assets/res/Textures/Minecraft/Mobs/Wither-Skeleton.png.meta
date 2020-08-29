@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "15edda07-1f4c-4620-bb5c-66551980f4a5",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "15edda07-1f4c-4620-bb5c-66551980f4a5@6c48a",
+      "displayName": "Wither-Skeleton",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "15edda07-1f4c-4620-bb5c-66551980f4a5"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "15edda07-1f4c-4620-bb5c-66551980f4a5@6c48a"
+  }
+}

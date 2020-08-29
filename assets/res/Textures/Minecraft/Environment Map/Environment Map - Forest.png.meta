@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "3547d0df-bacd-4d83-bc95-1dc9089a099a",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "3547d0df-bacd-4d83-bc95-1dc9089a099a@6c48a",
+      "displayName": "Environment Map - Forest",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3547d0df-bacd-4d83-bc95-1dc9089a099a"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "3547d0df-bacd-4d83-bc95-1dc9089a099a@6c48a"
+  }
+}

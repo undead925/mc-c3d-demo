@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "9cfd3818-60f4-4604-8f06-e8e60196b92f",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "9cfd3818-60f4-4604-8f06-e8e60196b92f@6c48a",
+      "displayName": "campfire_log",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9cfd3818-60f4-4604-8f06-e8e60196b92f"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "9cfd3818-60f4-4604-8f06-e8e60196b92f@6c48a"
+  }
+}

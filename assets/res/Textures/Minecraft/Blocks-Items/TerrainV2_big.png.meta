@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "55d68841-0f57-4f8d-8817-69d2ffebe387",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "55d68841-0f57-4f8d-8817-69d2ffebe387@6c48a",
+      "displayName": "TerrainV2_big",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "55d68841-0f57-4f8d-8817-69d2ffebe387"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "55d68841-0f57-4f8d-8817-69d2ffebe387@6c48a"
+  }
+}

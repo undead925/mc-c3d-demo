@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "562d2aa6-7a7f-49b7-a1b2-d891c065388b",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "562d2aa6-7a7f-49b7-a1b2-d891c065388b@6c48a",
+      "displayName": "endercrystal",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "562d2aa6-7a7f-49b7-a1b2-d891c065388b"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "562d2aa6-7a7f-49b7-a1b2-d891c065388b@6c48a"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "c9806120-c216-4239-8b7b-e782c6a94789",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "c9806120-c216-4239-8b7b-e782c6a94789@6c48a",
+      "displayName": "ozelot",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c9806120-c216-4239-8b7b-e782c6a94789"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "c9806120-c216-4239-8b7b-e782c6a94789@6c48a"
+  }
+}

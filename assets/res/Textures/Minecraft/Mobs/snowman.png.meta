@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "8aa10b70-2c70-488e-882e-40afd10a014d",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "8aa10b70-2c70-488e-882e-40afd10a014d@6c48a",
+      "displayName": "snowman",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8aa10b70-2c70-488e-882e-40afd10a014d"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "8aa10b70-2c70-488e-882e-40afd10a014d@6c48a"
+  }
+}

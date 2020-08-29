@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "d31bb5bd-6cab-4977-a3dd-b65477fa584a",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "d31bb5bd-6cab-4977-a3dd-b65477fa584a@6c48a",
+      "displayName": "Cape-Minecon-2012",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "nearest",
+        "magfilter": "nearest",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d31bb5bd-6cab-4977-a3dd-b65477fa584a"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "d31bb5bd-6cab-4977-a3dd-b65477fa584a@6c48a"
+  }
+}

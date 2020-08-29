@@ -1,0 +1,76 @@
+{
+  "__type__": "cc.Material",
+  "_name": "",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "23b37b8d-9b40-4538-b449-af822b4e0842"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {},
+    {
+      "USE_XRAY_PASS": true
+    },
+    {
+      "HAS_SECOND_UV": true,
+      "USE_ALBEDO_MAP": true,
+      "ALBEDO_UV": "v_uv1"
+    }
+  ],
+  "_states": [
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    },
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    },
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    }
+  ],
+  "_props": [
+    {
+      "depthBias": 1,
+      "baseColor": {
+        "__type__": "cc.Color",
+        "r": 255,
+        "g": 0,
+        "b": 0,
+        "a": 255
+      }
+    },
+    {
+      "rimColor": {
+        "__type__": "cc.Color",
+        "r": 138,
+        "g": 138,
+        "b": 138,
+        "a": 198
+      }
+    },
+    {
+      "mainTexture": {
+        "__uuid__": "12d7aa09-b739-44bc-8fe4-fc595daa8322@6c48a"
+      }
+    }
+  ]
+}

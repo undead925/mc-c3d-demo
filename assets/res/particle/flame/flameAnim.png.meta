@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "7bc7c5fa-5049-44f2-a3c7-3b07a5354668",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "7bc7c5fa-5049-44f2-a3c7-3b07a5354668@6c48a",
+      "displayName": "flameAnim",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "nearest",
+        "magfilter": "nearest",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7bc7c5fa-5049-44f2-a3c7-3b07a5354668"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "7bc7c5fa-5049-44f2-a3c7-3b07a5354668@6c48a"
+  }
+}
